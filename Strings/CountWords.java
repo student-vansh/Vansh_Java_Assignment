@@ -19,5 +19,6 @@ public class CountWords {
     
         }
         System.out.println(c+1);
+        System.out.println("This is the Count of the Words in the String Program");
     }
 }
